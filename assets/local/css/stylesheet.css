@@ -1,0 +1,29 @@
+nav.menu{
+	padding-top: 15px !important;
+}
+
+body, p, ul, li, span{
+	color: #000;
+	font-size: 14px;
+}
+
+img.recipe_image{
+	width: 200px;
+	height: 200px;
+}
+
+#recipe_col{
+	border: #9d9b9b 1px solid;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+nav ul li{
+	float: left;
+	margin-right: 5%;
+	margin-right: 
+}
+
+nav ul{
+	list-style: none;
+}
